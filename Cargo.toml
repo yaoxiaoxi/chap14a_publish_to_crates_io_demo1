@@ -8,6 +8,6 @@ documentation = "https://docs.rs/crate/chap14a_publish_to_crates_io_demo1"
 homepage = "https://yaoxiaoxi.github.io/chap14a_publish_to_crates_io_demo1"
 repository = "https://github.com/yaoxiaoxi/chap14a_publish_to_crates_io_demo1"
 license = "MIT OR Apache-2.0"
-publish = false
+#publish = false
 
 [dependencies]
