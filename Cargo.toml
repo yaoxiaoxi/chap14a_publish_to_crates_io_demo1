@@ -1,6 +1,6 @@
 [package]
 name = "chap14a_publish_to_crates_io_demo1"
-version = "0.1.18-alpha.9"
+version = "0.1.18-alpha.10"
 edition = "2021"
 authors = ["YaoXiaoxi <yaoxiaoxi@gmail.com>"]
 description = "一个发布 crate 到 crates.io 上的演示样例"
@@ -8,6 +8,6 @@ documentation = "https://docs.rs/crate/chap14a_publish_to_crates_io_demo1"
 homepage = "https://yaoxiaoxi.github.io/chap14a_publish_to_crates_io_demo1"
 repository = "https://github.com/yaoxiaoxi/chap14a_publish_to_crates_io_demo1"
 license = "MIT OR Apache-2.0"
-private = true
+publish = false
 
 [dependencies]
